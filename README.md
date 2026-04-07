@@ -97,9 +97,9 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Authors
 
-Adapa Greeshmi Karunya
-Athuluri Meghana
-Uggirala Sairam Manikanta
-Duggirala Sameer
-Bharath Singh Jebaraj
-Vivekrabinson K
+Adapa Greeshmi Karunya,
+Athuluri Meghana,
+Uggirala Sairam Manikanta,
+Duggirala Sameer,
+Bharath Singh Jebaraj,
+Vivekrabinson K.
